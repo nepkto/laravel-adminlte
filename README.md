@@ -8,3 +8,4 @@ This is a fresh laravel application in which  **AdminLte**  dashboard  is integr
 - `` git clone https://github.com/nepkto/laravel-adminlte.git``
 - ``composer install``
 - ``php artisan serve``
+> For Full UI Components visit https://github.com/nepkto/laravel-adminlte-boilerplate.git
